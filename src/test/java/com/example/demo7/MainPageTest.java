@@ -30,9 +30,9 @@ public class MainPageTest {
     }
 
     @AfterEach
-    public void tearDown() {
-        driver.quit();
-    }
+//    public void tearDown() {
+//        driver.quit();
+//    }
 
     @Test
     public void search() {
